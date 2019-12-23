@@ -1,5 +1,8 @@
 ## Propeller ANSI / VT-100 Terminal
 
+*** THIS FORK ADDS SELECTABLE BAUD-RATE & COLORS THROUGH UPDATED SETTINGS SCREEN ***
+*** Use vt100baudcolor.spin (Source) or vt100baudcolor.binary (compiled binary)  ***
+
 Firmware for a serial terminal add-on board designed for the [RC2014](http://http://rc2014.co.uk/) computer. It adds VGA video output as
 80x25 text (720x400@70Hz) with ANSI / VT-100 terminal emulation, and USB keyboard input. Using a single
 [Parallax Propeller](https://www.parallax.com) microcontroller running at 80MHz.
